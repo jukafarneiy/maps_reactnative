@@ -1,15 +1,4 @@
-# Location Saver
-An app that helps you save your location, in React Native
-
-https://play.google.com/store/apps/details?id=com.locationsaver
-
-If you want to see what I'm doing:
-- Clone this repo 
-- Checkout to `clone-ready` branch
-- Install React Native CLI `npm install -g react-native-cli`
-- Run `npm install` 
-- Then run `react-native run-android` or `react-native run-ios`.
-- :star:
+# Maps LocationSaver
 
 ### You can add your own location to the list ###
 (_Also rename and delete it_)
