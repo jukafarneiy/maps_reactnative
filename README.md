@@ -1,16 +1,16 @@
 # Maps LocationSaver
 
-### You can add your own location to the list ###
-(_Also rename and delete it_)
+Você pode adicionar seu próprio local à lista
+(Também é possível renomear e excluir)
 
 ![Add you location to the list](./screenshots/locationSaver1.gif)
 
-### You can then navigate to this location by clicking on a list item ###
-_If you have gmaps or citymapper installed you will be asked with which one you want to open the directions_
+Em seguida, você pode navegar até esse local clicando em um item da lista
+Se você tiver o gmaps ou o citymapper instalados, será perguntado com qual deles deseja abrir as direções
 
 ![Navigate to the location](./screenshots/locationSaver2.gif)
 
-### You can also add your location to the list with the help of a map and a marker ###
+Você também pode adicionar sua localização à lista com a ajuda de um mapa e um marcador
 
 ![React native maps](./screenshots/locationSaver3.gif)
 
